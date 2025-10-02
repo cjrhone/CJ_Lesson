@@ -1193,3 +1193,22 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.02-20.56.54:845][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1690.109619
 [2025.10.02-20.56.55:844][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.02-20.56.55:844][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.776123, Update Interval: 307.432465
+[2025.10.02-20.58.15:320][748]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.02-20.58.15:404][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.02-20.58.21:901][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-20.58.21:986][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/3U/99A96YNDIQOZ10NW4SMW3G
+[2025.10.02-20.58.21:986][138]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/99A96YNDIQOZ10NW4SMW3G25FED6DD450D64AFA55255BCEAC87E3A.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/3U/99A96YNDIQOZ10NW4SMW3G.uasset'
+[2025.10.02-20.58.22:022][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.443 ms (total: 247.303 ms)
+[2025.10.02-20.58.22:077][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.02-20.58.22:077][138]LogContentValidation: Enabled validators:
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-20.58.22:077][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-20.58.22:077][138]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.10.02-20.58.22:139][138]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal Projects/CJ_Lesson/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.02-21.02.37:246][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2032.510376
+[2025.10.02-21.02.38:246][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-21.02.38:246][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2033.177124, Update Interval: 328.276001
