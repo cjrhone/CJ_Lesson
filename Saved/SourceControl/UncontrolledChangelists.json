@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/CJ_Lesson/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_KillBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HQ/1HJOTB9JCO4A4ATYEMBC4M.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_JumpBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_SpeedBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/BI/WLOUAPX8EI5B4EDMZ20GXG.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/R4/LSXZ3BXD2VPE19PZVUFJUN.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_MoneyBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MV/IVA6GUIB5O3WK0LBOMUOG9.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_FoodBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_HungerBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ManaBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ManaDrainBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/Z0/OQ3ZP51QC1HJP5EER3SCFZ.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HW/DVUY3VHN95QVXW9NYCBJAG.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/86/0LTBLERI97WKU8VRMKMCQ8.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/1R/7QN9YINIKRA3SEV75KJT94.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_HealthBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_DamageBox.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_Coin.uasset",
+				"E:/Games/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/RT/Z9C08XEOGJ59ZVHTFT900X.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/XV/HQ660T5P9KY06W6GM1YXR3.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/7P/1INKPRHSZRHSTPCAEKV90Z.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/BH/7YP0PKHCEP27AAMRPUXV2N.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/89/NQPVXMLHRKMFTH3Q01LYAS.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"E:/Unreal Projects/CJ_Lesson/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/23/VNTIKJQ67DPWLGYJ2DPC3G.uasset"
+			]
+		}
+	]
+}
