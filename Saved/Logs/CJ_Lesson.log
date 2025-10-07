@@ -5013,3 +5013,1533 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.06-23.34.43:840][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.06-23.34.43:840][617]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.10.06-23.34.43:918][617]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Unreal Projects/CJ_Lesson/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.06-23.38.50:253][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.06-23.38.50:256][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.033
+[2025.10.06-23.38.50:256][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.06-23.38.50:256][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.06-23.38.50:256][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.10.06-23.38.50:273][445]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto5
+[2025.10.06-23.38.50:273][445]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC_Auto5BF124C2E4E893D18C7D628BF0C2B6B5D.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto5.uasset'
+[2025.10.06-23.38.50:274][445]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.10.06-23.39.27:509][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11775.567383
+[2025.10.06-23.39.28:510][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-23.39.28:510][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11776.234375, Update Interval: 346.777557
+[2025.10.06-23.45.59:550][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12167.491211
+[2025.10.06-23.46.00:549][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-23.46.00:549][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12168.158203, Update Interval: 318.876923
+[2025.10.06-23.51.50:258][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12518.102539
+[2025.10.06-23.51.51:259][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-23.51.51:259][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12518.770508, Update Interval: 354.594574
+[2025.10.06-23.58.19:301][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12906.991211
+[2025.10.06-23.58.20:299][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-23.58.20:299][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12907.657227, Update Interval: 303.592651
+[2025.10.07-00.04.18:335][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13265.892578
+[2025.10.07-00.04.19:336][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.04.19:336][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13266.558594, Update Interval: 328.039795
+[2025.10.07-00.10.34:049][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13641.476562
+[2025.10.07-00.10.35:049][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.10.35:049][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13642.143555, Update Interval: 359.069794
+[2025.10.07-00.17.25:756][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14053.072266
+[2025.10.07-00.17.26:757][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.17.26:757][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14053.742188, Update Interval: 316.721710
+[2025.10.07-00.23.13:793][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14400.985352
+[2025.10.07-00.23.14:792][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.23.14:792][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14401.650391, Update Interval: 334.888153
+[2025.10.07-00.25.20:298][815]LogDerivedDataCache: C:/Users/charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8750 files in 10757 folders with total size 2434 MiB.
+[2025.10.07-00.29.28:841][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14775.882812
+[2025.10.07-00.29.29:841][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.29.29:841][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14776.549805, Update Interval: 314.872284
+[2025.10.07-00.35.34:553][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15141.459961
+[2025.10.07-00.35.35:553][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.35.35:553][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15142.125977, Update Interval: 310.658905
+[2025.10.07-00.41.44:589][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15511.378906
+[2025.10.07-00.41.45:588][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.41.45:588][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15512.045898, Update Interval: 302.829071
+[2025.10.07-00.47.48:291][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15874.948242
+[2025.10.07-00.47.49:291][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.47.49:291][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15875.616211, Update Interval: 324.430664
+[2025.10.07-00.54.06:335][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16252.867188
+[2025.10.07-00.54.07:335][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-00.54.07:336][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16253.534180, Update Interval: 337.876526
+[2025.10.07-01.00.29:393][141]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16636.087891
+[2025.10.07-01.00.30:393][144]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.00.30:393][144]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16636.755859, Update Interval: 305.149078
+[2025.10.07-01.06.13:128][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16980.103516
+[2025.10.07-01.06.14:108][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.06.14:108][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16980.740234, Update Interval: 321.270172
+[2025.10.07-01.09.37:735][315]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-01.09.37:741][315]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox
+[2025.10.07-01.09.37:741][315]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.07-01.09.37:748][315]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.07-01.10.03:439][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:443][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:446][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:450][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:454][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:457][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:461][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:541][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:545][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:548][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:552][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:556][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:560][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:564][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:567][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:571][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:575][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:578][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:582][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:586][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:590][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:593][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:596][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:599][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:604][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:607][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:612][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:622][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:698][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:703][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:706][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:712][809]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:783][810]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:867][811]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:873][811]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.03:951][812]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:027][813]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:031][813]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:035][813]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:039][813]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:117][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:120][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:124][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:134][814]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:213][815]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:216][815]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:222][815]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:296][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:300][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:303][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:307][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:311][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:314][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:317][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:321][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:325][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:329][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:332][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:336][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:340][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:343][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:347][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:350][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:354][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:358][816]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:446][817]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:451][817]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:528][818]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:618][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.10.04:688][821]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.07-01.11.01:287][230]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.07-01.11.11:899][869]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.07-01.11.24:363][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.07-01.11.24:520][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.11.24:582][630]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.11.24:587][630]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.11.24:587][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.11.24:587][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.11.24:598][630]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.11.24:598][630]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox272C56864F64EB18FECAA8AC5273DD76.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.11.24:626][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.029 ms (total: 12.2 sec)
+[2025.10.07-01.11.24:701][630]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.11.24:701][630]LogContentValidation: Enabled validators:
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.11.24:701][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.11.24:702][630]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.11.24:931][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.11.25:019][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.11.25:019][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.11.25:019][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.11.25:028][641]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.11.25:030][641]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox54A921C443A04954CB665189BD2D3C9E.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.11.25:060][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.663 ms (total: 12.3 sec)
+[2025.10.07-01.11.25:116][641]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.11.25:116][641]LogContentValidation: Enabled validators:
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.11.25:116][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.11.25:116][641]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.12.07:227][159]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-01.12.07:227][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.12.07:234][159]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-01.12.07:234][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.12.07:309][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.07-01.12.07:481][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17335.859375
+[2025.10.07-01.12.07:614][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.12.07:615][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17335.976562, Update Interval: 330.998871
+[2025.10.07-01.12.57:629][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.07-01.12.57:660][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.12.57:695][216]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.12.57:769][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.12.57:769][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.12.57:769][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.12.57:782][216]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.12.57:783][216]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC23DF1AED43E3E4AEB0540D82F20DFFDB.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.12.57:791][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.619 ms (total: 12.4 sec)
+[2025.10.07-01.12.57:843][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.12.57:843][216]LogContentValidation: Enabled validators:
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.12.57:843][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.12.57:843][216]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.12.58:255][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.12.58:347][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.12.58:347][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.12.58:347][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.12.58:359][239]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.12.58:361][239]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC0DBB20E64A4AEC851267BEA06AF62BD6.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.12.58:385][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.078 ms (total: 12.6 sec)
+[2025.10.07-01.12.58:444][239]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.12.58:444][239]LogContentValidation: Enabled validators:
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.12.58:444][239]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.12.58:444][239]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.14.01:865][188]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.10.07-01.14.01:944][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.07-01.14.02:003][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.14.02:116][188]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.14.02:126][188]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.14.02:126][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.14.02:126][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.14.02:152][188]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.14.02:153][188]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox532EE1FB40574F9F1A3B9A83B081F537.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.14.02:165][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.314 ms (total: 12.7 sec)
+[2025.10.07-01.14.02:224][188]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.14.02:224][188]LogContentValidation: Enabled validators:
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.14.02:224][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.14.02:224][188]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.14.02:623][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.14.02:711][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.14.02:838][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.14.02:838][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.14.02:838][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.14.02:879][210]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.14.02:880][210]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter8E6640E0439F943F9360859009EB9F42.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.14.02:888][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 266.247 ms (total: 13.0 sec)
+[2025.10.07-01.14.02:923][210]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.14.02:923][210]LogContentValidation: Enabled validators:
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.14.02:923][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.14.02:923][210]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.14.06:129][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.07-01.14.06:185][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.14.06:249][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.14.06:381][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.14.06:381][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.14.06:381][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.14.06:423][399]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.14.06:423][399]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacterEBAC0E2F4249C592E3D4CBB3F93BBDD4.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.14.06:435][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.052 ms (total: 13.2 sec)
+[2025.10.07-01.14.06:498][399]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.14.06:498][399]LogContentValidation: Enabled validators:
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.14.06:498][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.14.06:498][399]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.15.20:214][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.07-01.15.20:217][693]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.028
+[2025.10.07-01.15.20:218][693]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.15.20:353][693]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.15.20:353][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.15.20:353][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.10.07-01.15.20:369][693]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto6
+[2025.10.07-01.15.20:369][693]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC_Auto6580AAD3E4C2316B93E257EABB630E2EC.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto6.uasset'
+[2025.10.07-01.15.20:369][693]LogFileHelpers: Auto-saving content packages took 0.152
+[2025.10.07-01.18.12:058][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17702.199219
+[2025.10.07-01.18.12:192][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.18.12:192][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17702.316406, Update Interval: 358.373962
+[2025.10.07-01.19.06:866][544]LogClass: Warning: Type mismatch in DialogueText of WBP_DialogueBox_C - Previous (BoolProperty) Current(TextProperty) in package: FObjectReader
+[2025.10.07-01.19.06:903][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.07-01.19.06:939][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.19.07:001][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.19.07:005][544]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.19.07:005][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.19.07:005][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.19.07:016][544]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.19.07:018][544]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox964B459D4603DE1EB19FAF8BCA16A0E0.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.19.07:039][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.509 ms (total: 13.3 sec)
+[2025.10.07-01.19.07:082][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.19.07:082][544]LogContentValidation: Enabled validators:
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.19.07:083][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.19.07:083][544]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.19.42:561][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.07-01.19.42:594][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.19.42:650][685]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.19.42:652][685]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.19.42:652][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.19.42:652][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.19.42:665][685]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.19.42:665][685]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxCFDE8EF64E536F2D69A0689F83C22C0A.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.19.42:691][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.866 ms (total: 13.4 sec)
+[2025.10.07-01.19.42:756][685]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.19.42:756][685]LogContentValidation: Enabled validators:
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.19.42:756][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.19.42:756][685]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.19.53:545][ 84]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.10.07-01.20.14:897][365]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.10.07-01.20.14:948][365]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.10.07-01.20.16:166][444]LogClass: Warning: Type mismatch in DialogueText of WBP_DialogueBox_C - Previous (TextProperty) Current(ArrayProperty) in package: FObjectReader
+[2025.10.07-01.20.16:217][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.07-01.20.16:250][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.20.16:301][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.20.16:303][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.20.16:303][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.20.16:303][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.20.16:316][444]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.20.16:316][444]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox36257380488B5645FD42C191304FF6B6.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.20.16:343][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.754 ms (total: 13.5 sec)
+[2025.10.07-01.20.16:404][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.20.16:404][444]LogContentValidation: Enabled validators:
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.20.16:404][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.20.16:405][444]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.20.17:083][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.20.17:173][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.20.17:173][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.20.17:173][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.20.17:189][484]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.20.17:189][484]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxE50AC08D493BE5F657F260B2E5D697E7.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.20.17:212][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.055 ms (total: 13.7 sec)
+[2025.10.07-01.20.17:270][484]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.20.17:270][484]LogContentValidation: Enabled validators:
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.20.17:270][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.20.17:270][484]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.23.02:363][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.07-01.23.02:398][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.23.02:459][466]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.23.02:461][466]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.23.02:461][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.23.02:461][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.23.02:474][466]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.23.02:474][466]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxA11CA3D24FB2A5079AE89DA1EA4B915C.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.23.02:500][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.101 ms (total: 13.8 sec)
+[2025.10.07-01.23.02:543][466]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.23.02:543][466]LogContentValidation: Enabled validators:
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.23.02:543][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.23.02:544][466]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.23.02:824][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.23.02:929][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.23.02:929][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.23.02:929][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.23.02:941][483]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.23.02:941][483]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox045C7C524A5DD42E7959C997974971AD.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.23.02:967][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.872 ms (total: 13.9 sec)
+[2025.10.07-01.23.03:028][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.23.03:028][483]LogContentValidation: Enabled validators:
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.23.03:028][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.23.03:028][483]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.24.55:080][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18107.830078
+[2025.10.07-01.24.55:207][612]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.24.55:207][612]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18107.949219, Update Interval: 345.525085
+[2025.10.07-01.25.20:328][122]LogDerivedDataCache: C:/Users/charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8750 files in 10757 folders with total size 2434 MiB.
+[2025.10.07-01.25.26:126][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.07-01.25.26:300][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.25.26:368][460]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.25.26:372][460]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.25.26:372][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.25.26:372][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.25.26:385][460]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.25.26:386][460]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxA5336F6840C86B84C80B6D847875C051.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.25.26:403][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.629 ms (total: 14.0 sec)
+[2025.10.07-01.25.26:444][460]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.25.26:444][460]LogContentValidation: Enabled validators:
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.25.26:444][460]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.25.26:444][460]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.25.27:110][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.25.27:204][496]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.25.27:204][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.25.27:204][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.25.27:216][496]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.25.27:216][496]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox3205B7D846C2EA8DCB802BB7F2B5037B.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.25.27:252][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.230 ms (total: 14.1 sec)
+[2025.10.07-01.25.27:295][496]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.25.27:295][496]LogContentValidation: Enabled validators:
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.25.27:295][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.25.27:296][496]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.26.39:112][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.07-01.26.39:116][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.050
+[2025.10.07-01.26.39:116][968]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.26.39:121][968]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.26.39:121][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.26.39:135][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/UI/WBP_DialogueBox_Auto7
+[2025.10.07-01.26.39:135][968]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox_Auto7ABCA20894C73CAAB01F398B98F483766.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/UI/WBP_DialogueBox_Auto7.uasset'
+[2025.10.07-01.26.39:136][968]LogFileHelpers: Auto-saving content packages took 0.020
+[2025.10.07-01.28.00:731][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-01.28.00:907][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.28.00:945][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.28.00:947][191]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.28.00:947][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.28.00:948][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.28.00:961][191]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.28.00:962][191]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox77A8CE5543957654BB27549ACAC8F2C4.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.28.00:992][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.578 ms (total: 14.2 sec)
+[2025.10.07-01.28.01:065][191]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.28.01:065][191]LogContentValidation: Enabled validators:
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.28.01:065][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.28.01:066][191]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.29.12:491][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.07-01.29.12:525][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.29.12:593][994]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.29.12:598][994]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.29.12:598][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.29.12:598][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.29.12:612][994]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.29.12:612][994]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox3A9C01A74C144DD22032418502690F92.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.29.12:632][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.929 ms (total: 14.3 sec)
+[2025.10.07-01.29.12:690][994]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.29.12:690][994]LogContentValidation: Enabled validators:
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.29.12:690][994]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.29.12:690][994]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.29.13:089][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.29.13:161][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.29.13:161][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.29.13:161][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.29.13:175][ 16]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.29.13:176][ 16]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox3792F00441FD4F9AFEEC2D84DEB68C82.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.29.13:197][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.692 ms (total: 14.4 sec)
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: Enabled validators:
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.29.13:256][ 16]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.29.13:257][ 16]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.29.28:765][960]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\BP_BaseNPC.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_ThirdPersonCharacter  to imply a specific type.
+[2025.10.07-01.29.28:765][960]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\BP_BaseNPC.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2025.10.07-01.29.28:823][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.07-01.29.29:265][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.29.29:348][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.29.29:475][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.29.29:475][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.29.29:475][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.29.29:489][986]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.29.29:490][986]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPCE62F1A374F467078C8E7749B98DBA0ED.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.29.29:502][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 235.961 ms (total: 14.7 sec)
+[2025.10.07-01.29.29:559][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.29.29:559][986]LogContentValidation: Enabled validators:
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.29.29:559][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.29.29:559][986]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.29.56:311][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.07-01.29.56:339][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.29.56:392][605]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.29.56:519][605]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.29.56:519][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.29.56:519][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.29.56:535][605]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.29.56:536][605]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPCB8CCDA934633B4CC3BC981943F4DC5D8.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.29.56:547][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 208.563 ms (total: 14.9 sec)
+[2025.10.07-01.29.56:591][605]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.29.56:591][605]LogContentValidation: Enabled validators:
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.29.56:591][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.29.56:591][605]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.29.57:374][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.29.57:468][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.29.57:468][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.29.57:468][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.29.57:483][650]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.29.57:483][650]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC74C4BC714536A2BF0837568A0A27BC79.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.29.57:514][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.075 ms (total: 15.0 sec)
+[2025.10.07-01.29.57:575][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.29.57:575][650]LogContentValidation: Enabled validators:
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.29.57:575][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.29.57:575][650]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.29.58:336][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-01.29.58:342][698]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.07-01.29.58:342][698]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.07-01.29.58:343][698]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 830 us (total: 25.769 ms)
+[2025.10.07-01.29.58:343][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-01.29.58:344][698]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.29.58:355][698]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.07-01.29.58:357][698]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.240 ms (total: 59.999 ms)
+[2025.10.07-01.29.58:357][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014150s)
+[2025.10.07-01.29.58:357][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.014178s)
+[2025.10.07-01.29.58:387][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.07-01.29.58:390][698]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.07-01.29.58:392][698]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.07-01.29.58:392][698]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.07-01.29.58:392][698]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.07-01.29.58:392][698]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.07-01.29.58:395][698]LogWorldPartition: Display: WorldPartition initialize took 2.706 ms (total: 384.872 ms)
+[2025.10.07-01.29.58:395][698]LogPlayLevel: PIE: World Init took: (0.004408s)
+[2025.10.07-01.29.58:395][698]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.07-01.29.58:395][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-01.29.58:395][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-01.29.58:395][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-01.29.58:395][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-01.29.58:395][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-01.29.58:396][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-01.29.58:396][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-01.29.58:396][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-01.29.58:396][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-01.29.58:396][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-01.29.58:396][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-01.29.58:397][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-01.29.58:436][698]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-01.29.58:436][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-01.29.58:436][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-01.29.58:436][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-01.29.58:437][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.07-01.29.58:437][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.07-01.29.58:439][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.07-01.29.58:439][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.07-01.29.58:439][698]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.07-01.29.58:439][698]LogAudio: Display: Audio Device (ID: 28) registered with world 'Lvl_ThirdPerson'.
+[2025.10.07-01.29.58:439][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.07-01.29.58:496][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.29.58:496][698]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-01.29.58:503][698]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.06-18.29.58
+[2025.10.07-01.29.58:503][698]LogWorld: Bringing up level for play took: 0.005816
+[2025.10.07-01.29.58:506][698]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.10.07-01.29.58:510][698]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Jump box is ready
+[2025.10.07-01.29.58:510][698]LogBlueprintUserMessages: [BP_KillBox_C_UAID_B42E99A4693EDC9302_1476504449] Hello World Im ready to kill you
+[2025.10.07-01.29.58:510][698]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Jump box is ready
+[2025.10.07-01.29.58:513][698]PIE: Server logged in
+[2025.10.07-01.29.58:514][698]PIE: Play in editor total start time 0.172 seconds.
+[2025.10.07-01.29.58:638][699]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.07-01.30.02:258][899]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-01.30.02:259][899]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-01.30.02:675][924]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.30.04:626][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.30.05:511][ 94]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-01.30.05:511][ 94]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-01.30.06:512][154]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.30.08:030][245]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.30.09:890][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.30.09:890][355]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.30.09:890][355]LogSlate: Window 'CJ_Lesson Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.07-01.30.09:911][355]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-01.30.09:912][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.30.09:912][355]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-01.30.09:916][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-01.30.09:922][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.30.09:953][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.07-01.30.09:953][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.07-01.30.09:953][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.10.07-01.30.09:955][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.10.07-01.30.09:963][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-01.30.10:092][356]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.10.07-01.31.19:029][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18493.654297
+[2025.10.07-01.31.19:163][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.31.19:163][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18493.771484, Update Interval: 303.567017
+[2025.10.07-01.36.07:373][574]LogBlueprint: Error: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.10.07-01.36.07:440][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.07-01.36.07:943][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.36.08:046][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.36.08:193][600]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.36.08:193][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.36.08:193][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.36.08:237][600]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.36.08:237][600]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter028F226544AC907704794AACCDB2C959.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.36.08:249][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 306.238 ms (total: 15.3 sec)
+[2025.10.07-01.36.08:311][600]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.36.08:311][600]LogContentValidation: Enabled validators:
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.36.08:311][600]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.36.08:311][600]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.36.51:063][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.07-01.36.51:067][160]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.033
+[2025.10.07-01.36.51:067][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.36.51:191][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.36.51:191][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.36.51:232][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/BP_ThirdPersonCharacter_Auto8
+[2025.10.07-01.36.51:232][160]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter_Auto8D3D8048649CC48DBD3128D853C1747A9.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_ThirdPersonCharacter_Auto8.uasset'
+[2025.10.07-01.36.51:235][160]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.36.51:248][160]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.36.51:248][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.36.51:248][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.10.07-01.36.51:263][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto8
+[2025.10.07-01.36.51:263][160]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC_Auto8CED0010E4B8ECB80F2BDEAA48B15DDDC.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto8.uasset'
+[2025.10.07-01.36.51:263][160]LogFileHelpers: Auto-saving content packages took 0.196
+[2025.10.07-01.37.02:082][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18838.341797
+[2025.10.07-01.37.02:214][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.37.02:214][823]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18838.458984, Update Interval: 345.195465
+[2025.10.07-01.38.23:800][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.07-01.38.23:857][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.38.23:925][601]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.38.24:049][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.38.24:050][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.38.24:050][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-01.38.24:066][601]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-01.38.24:066][601]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC7B337E284210C84DB02BC7AB52DE07B3.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-01.38.24:067][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.38.24:091][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.38.24:091][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.38.24:091][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.38.24:135][601]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.38.24:135][601]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter700BB6924775C45912C0D99EE9CC6EEE.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.38.24:146][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.387 ms (total: 15.6 sec)
+[2025.10.07-01.38.24:189][601]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.07-01.38.24:189][601]LogContentValidation: Enabled validators:
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.38.24:189][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.38.24:189][601]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-01.38.24:191][601]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.38.37:771][788]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-01.38.37:777][788]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.07-01.38.37:777][788]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.07-01.38.37:777][788]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 857 us (total: 26.626 ms)
+[2025.10.07-01.38.37:778][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-01.38.37:778][788]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.38.37:789][788]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.07-01.38.37:791][788]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.444 ms (total: 62.443 ms)
+[2025.10.07-01.38.37:791][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012884s)
+[2025.10.07-01.38.37:791][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012913s)
+[2025.10.07-01.38.37:822][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.07-01.38.37:826][788]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.07-01.38.37:827][788]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.07-01.38.37:827][788]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.07-01.38.37:827][788]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.07-01.38.37:827][788]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.07-01.38.37:830][788]LogWorldPartition: Display: WorldPartition initialize took 2.464 ms (total: 387.336 ms)
+[2025.10.07-01.38.37:830][788]LogPlayLevel: PIE: World Init took: (0.004329s)
+[2025.10.07-01.38.37:831][788]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-01.38.37:831][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-01.38.37:831][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-01.38.37:831][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-01.38.37:831][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-01.38.37:831][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-01.38.37:833][788]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-01.38.37:869][788]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-01.38.37:869][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-01.38.37:869][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-01.38.37:869][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-01.38.37:869][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.07-01.38.37:869][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.07-01.38.37:872][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.07-01.38.37:872][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.07-01.38.37:872][788]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.07-01.38.37:872][788]LogAudio: Display: Audio Device (ID: 29) registered with world 'Lvl_ThirdPerson'.
+[2025.10.07-01.38.37:872][788]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.07-01.38.37:922][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.38.37:922][788]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-01.38.37:927][788]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.06-18.38.37
+[2025.10.07-01.38.37:928][788]LogWorld: Bringing up level for play took: 0.005803
+[2025.10.07-01.38.37:930][788]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.10.07-01.38.37:934][788]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Jump box is ready
+[2025.10.07-01.38.37:934][788]LogBlueprintUserMessages: [BP_KillBox_C_UAID_B42E99A4693EDC9302_1476504449] Hello World Im ready to kill you
+[2025.10.07-01.38.37:935][788]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Jump box is ready
+[2025.10.07-01.38.37:937][788]PIE: Server logged in
+[2025.10.07-01.38.37:938][788]PIE: Play in editor total start time 0.161 seconds.
+[2025.10.07-01.38.38:089][789]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.07-01.38.42:330][ 27]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-01.38.42:331][ 27]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-01.38.42:898][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.42:898][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.42:898][ 65]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_0
+[2025.10.07-01.38.44:115][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.44:116][138]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.44:116][138]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_1
+[2025.10.07-01.38.44:908][186]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.44:908][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.44:908][186]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_2
+[2025.10.07-01.38.45:684][232]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.45:684][232]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.45:684][232]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_3
+[2025.10.07-01.38.46:502][286]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.46:502][286]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.46:502][286]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_4
+[2025.10.07-01.38.47:419][342]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-01.38.47:419][342]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-01.38.49:559][476]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-01.38.49:560][476]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-01.38.50:176][513]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-01.38.50:176][513]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-01.38.50:793][550]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-01.38.50:793][550]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-01.38.51:176][573]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.38.51:176][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'DialogueLines' of length 0 in '/Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox_C'!
+[2025.10.07-01.38.51:177][573]LogScript: Warning: Script Msg called by: WBP_DialogueBox_C /Engine/Transient.UnrealEdEngine_0:GameInstance_27.WBP_DialogueBox_C_5
+[2025.10.07-01.38.51:973][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.38.51:973][617]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.38.51:973][617]LogSlate: Window 'CJ_Lesson Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.07-01.38.51:979][617]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-01.38.51:980][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.38.51:980][617]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-01.38.51:983][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-01.38.51:989][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.38.52:018][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.07-01.38.52:018][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.07-01.38.52:018][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.10.07-01.38.52:020][617]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.10.07-01.38.52:029][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.07-01.38.52:098][618]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.10.07-01.41.25:904][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.07-01.41.25:941][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.41.25:977][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.41.25:981][787]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.41.25:981][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.41.25:981][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.41.25:994][787]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.41.25:995][787]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxE69763E343DDDA1ACC48B2A23EF096DB.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.41.26:018][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.053 ms (total: 15.7 sec)
+[2025.10.07-01.41.26:076][787]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.41.26:076][787]LogContentValidation: Enabled validators:
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.41.26:076][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.41.26:077][787]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.41.26:489][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-01.41.26:494][810]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.07-01.41.26:494][810]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.07-01.41.26:495][810]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 819 us (total: 27.446 ms)
+[2025.10.07-01.41.26:495][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-01.41.26:496][810]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.41.26:506][810]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.07-01.41.26:508][810]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.233 ms (total: 64.676 ms)
+[2025.10.07-01.41.26:508][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013068s)
+[2025.10.07-01.41.26:508][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013094s)
+[2025.10.07-01.41.26:535][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.07-01.41.26:538][810]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.07-01.41.26:540][810]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.07-01.41.26:540][810]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.07-01.41.26:540][810]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.07-01.41.26:540][810]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.07-01.41.26:543][810]LogWorldPartition: Display: WorldPartition initialize took 2.413 ms (total: 389.750 ms)
+[2025.10.07-01.41.26:543][810]LogPlayLevel: PIE: World Init took: (0.004047s)
+[2025.10.07-01.41.26:543][810]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-01.41.26:543][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-01.41.26:543][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-01.41.26:543][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-01.41.26:543][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-01.41.26:543][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-01.41.26:545][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-01.41.26:582][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-01.41.26:582][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-01.41.26:582][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-01.41.26:582][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-01.41.26:582][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.07-01.41.26:582][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.07-01.41.26:585][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.07-01.41.26:585][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.07-01.41.26:585][810]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.07-01.41.26:585][810]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lvl_ThirdPerson'.
+[2025.10.07-01.41.26:585][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.07-01.41.26:649][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.41.26:649][810]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-01.41.26:655][810]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.06-18.41.26
+[2025.10.07-01.41.26:656][810]LogWorld: Bringing up level for play took: 0.005481
+[2025.10.07-01.41.26:658][810]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.10.07-01.41.26:661][810]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Jump box is ready
+[2025.10.07-01.41.26:661][810]LogBlueprintUserMessages: [BP_KillBox_C_UAID_B42E99A4693EDC9302_1476504449] Hello World Im ready to kill you
+[2025.10.07-01.41.26:662][810]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Jump box is ready
+[2025.10.07-01.41.26:664][810]PIE: Server logged in
+[2025.10.07-01.41.26:665][810]PIE: Play in editor total start time 0.171 seconds.
+[2025.10.07-01.41.26:791][811]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.07-01.41.30:593][ 32]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-01.41.30:593][ 32]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-01.41.30:979][ 55]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.41.31:863][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-01.41.33:212][189]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-01.41.33:212][189]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-01.41.33:884][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-01.41.33:884][227]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-01.41.33:884][227]LogSlate: Window 'CJ_Lesson Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.07-01.41.33:895][227]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-01.41.33:896][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.41.33:896][227]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-01.41.33:899][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-01.41.33:905][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-01.41.33:934][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.07-01.41.33:935][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.07-01.41.33:935][227]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.10.07-01.41.33:936][227]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.10.07-01.41.33:943][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.07-01.41.34:013][228]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.10.07-01.43.23:807][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-01.43.23:986][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.43.24:035][800]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.43.24:041][800]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.43.24:041][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.43.24:041][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.43.24:055][800]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.43.24:055][800]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox09123CCD4A86F6D1D57714BEC52B097E.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.43.24:095][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.492 ms (total: 15.8 sec)
+[2025.10.07-01.43.24:167][800]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.43.24:167][800]LogContentValidation: Enabled validators:
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.43.24:167][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.43.24:167][800]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.43.24:467][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.43.24:572][812]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.43.24:572][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.43.24:572][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.43.24:586][812]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.43.24:586][812]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxA4C0DD864BA0B8807A8FC9BF1EBF9084.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.43.24:628][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.372 ms (total: 16.0 sec)
+[2025.10.07-01.43.24:689][812]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.43.24:689][812]LogContentValidation: Enabled validators:
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.43.24:689][812]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.43.24:690][812]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.43.44:380][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19242.298828
+[2025.10.07-01.43.44:499][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.43.44:499][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19242.400391, Update Interval: 351.069672
+[2025.10.07-01.47.29:348][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.07-01.47.29:351][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2025.10.07-01.47.29:352][918]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.47.29:357][918]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.47.29:357][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.47.29:371][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/UI/WBP_DialogueBox_Auto9
+[2025.10.07-01.47.29:371][918]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox_Auto99F7A0D2C476A1D4C44914FB86976D299.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/UI/WBP_DialogueBox_Auto9.uasset'
+[2025.10.07-01.47.29:381][918]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.10.07-01.50.29:419][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19649.927734
+[2025.10.07-01.50.29:536][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.50.29:536][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19650.031250, Update Interval: 317.886292
+[2025.10.07-01.52.00:042][851]LogEditorTransaction: Undo Add Node
+[2025.10.07-01.52.15:839][787]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\UI\WBP_DialogueBox.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.10.07-01.52.15:895][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.07-01.53.24:300][911]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\UI\WBP_DialogueBox.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.10.07-01.53.24:356][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.07-01.53.24:815][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.53.24:904][938]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.53.24:908][938]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.53.24:908][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.53.24:908][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.53.24:926][938]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.53.24:926][938]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox63F7388248961B4A6957029279028863.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.53.24:943][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.134 ms (total: 16.1 sec)
+[2025.10.07-01.53.25:007][938]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.53.25:007][938]LogContentValidation: Enabled validators:
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.53.25:007][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.53.25:008][938]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.54.03:066][236]LogBlueprint: Warning: [AssetLog] E:\Unreal Projects\CJ_Lesson\Content\_Lesson\Code\UI\WBP_DialogueBox.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.10.07-01.54.03:120][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.07-01.54.14:592][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.07-01.54.14:627][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.54.14:690][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.54.14:693][923]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.54.14:693][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.54.14:693][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.54.14:709][923]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.54.14:710][923]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox82B7992440CB25A735CCF3A00C4A94A6.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.54.14:749][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.084 ms (total: 16.2 sec)
+[2025.10.07-01.54.14:806][923]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.54.14:806][923]LogContentValidation: Enabled validators:
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.54.14:806][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.54.14:806][923]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.54.15:768][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.54.15:849][977]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.54.15:849][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.54.15:849][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.54.15:865][977]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.54.15:865][977]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxE88DE08249BF317CAC06C9A11BAA4D2E.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.54.15:913][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.086 ms (total: 16.4 sec)
+[2025.10.07-01.54.15:960][977]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.54.15:960][977]LogContentValidation: Enabled validators:
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.54.15:960][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.54.15:960][977]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.56.24:223][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20007.371094
+[2025.10.07-01.56.24:339][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-01.56.24:339][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20007.472656, Update Interval: 301.060211
+[2025.10.07-01.57.12:434][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.07-01.57.12:500][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.57.12:549][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.57.12:694][620]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-01.57.12:694][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.57.12:694][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.57.12:736][620]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.57.12:736][620]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter21A07D82414B2CF00E1E99B914F6167A.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.57.12:749][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 248.791 ms (total: 16.6 sec)
+[2025.10.07-01.57.12:816][620]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.57.12:816][620]LogContentValidation: Enabled validators:
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.57.12:816][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.57.12:816][620]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.57.13:913][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.57.13:985][684]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-01.57.13:985][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-01.57.13:985][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-01.57.14:027][684]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-01.57.14:027][684]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter914B9A2B4215A5EFAA08749787545898.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-01.57.14:038][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.408 ms (total: 16.7 sec)
+[2025.10.07-01.57.14:100][684]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.57.14:100][684]LogContentValidation: Enabled validators:
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.57.14:100][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.57.14:100][684]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-01.57.38:142][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.07-01.57.38:146][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2025.10.07-01.57.38:146][420]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-01.57.38:274][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-01.57.38:274][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-01.57.38:274][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2025.10.07-01.57.38:288][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto0
+[2025.10.07-01.57.38:288][420]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPC_Auto0465930004DBAADA6850026A80EE5B62A.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Saved/Autosaves/Game/_Lesson/Code/BP_BaseNPC_Auto0.uasset'
+[2025.10.07-01.57.38:289][420]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.10.07-01.59.20:286][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-01.59.20:467][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.59.20:525][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.59.20:531][316]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Lesson/Code/UI/WBP_DialogueBox.WBP_DialogueBox]
+[2025.10.07-01.59.20:531][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.59.20:531][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.59.20:549][316]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.59.20:549][316]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBox0F18FE5442689CE88ABF50A7DE17E594.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.59.20:563][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.487 ms (total: 16.8 sec)
+[2025.10.07-01.59.20:603][316]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.59.20:603][316]LogContentValidation: Enabled validators:
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.59.20:603][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.59.20:603][316]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-01.59.21:288][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-01.59.21:374][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/UI/WBP_DialogueBox] ([2] browsable assets)...
+[2025.10.07-01.59.21:374][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/UI/WBP_DialogueBox]
+[2025.10.07-01.59.21:374][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/UI/WBP_DialogueBox" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset" SILENT=true
+[2025.10.07-01.59.21:389][353]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/UI/WBP_DialogueBox
+[2025.10.07-01.59.21:392][353]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/WBP_DialogueBoxC4CD0467414B446F94C62DA35FDC9402.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/UI/WBP_DialogueBox.uasset'
+[2025.10.07-01.59.21:413][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.739 ms (total: 17.0 sec)
+[2025.10.07-01.59.21:477][353]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-01.59.21:477][353]LogContentValidation: Enabled validators:
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-01.59.21:477][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-01.59.21:478][353]AssetCheck: /Game/_Lesson/Code/UI/WBP_DialogueBox Validating asset
+[2025.10.07-02.01.40:368][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.07-02.01.40:432][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-02.01.40:500][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-02.01.40:647][678]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-02.01.40:647][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-02.01.40:647][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-02.01.40:690][678]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-02.01.40:692][678]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter6CF330F44BAED565958CBC823A6ECF3B.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-02.01.40:703][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 270.761 ms (total: 17.2 sec)
+[2025.10.07-02.01.40:750][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-02.01.40:750][678]LogContentValidation: Enabled validators:
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-02.01.40:750][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-02.01.40:750][678]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-02.01.40:898][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-02.01.40:950][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-02.01.40:950][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-02.01.40:950][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-02.01.40:993][679]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-02.01.40:993][679]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacterBA8F5A9E42EE7D5B4D1D75BC20CC27AB.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-02.01.41:004][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.044 ms (total: 17.3 sec)
+[2025.10.07-02.01.41:072][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-02.01.41:074][679]LogContentValidation: Enabled validators:
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-02.01.41:074][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-02.01.41:074][679]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-02.01.44:328][875]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-02.01.44:334][875]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.07-02.01.44:334][875]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.07-02.01.44:335][875]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 851 us (total: 28.297 ms)
+[2025.10.07-02.01.44:335][875]LogPlayLevel: [PlayLevel] Compiling BP_BaseNPC before play...
+[2025.10.07-02.01.44:386][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-02.01.44:449][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Lesson/Code/BP_BaseNPC] ([2] browsable assets)...
+[2025.10.07-02.01.44:578][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_BaseNPC.BP_BaseNPC]
+[2025.10.07-02.01.44:578][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_BaseNPC]
+[2025.10.07-02.01.44:579][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_BaseNPC" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset" SILENT=true
+[2025.10.07-02.01.44:653][875]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_BaseNPC
+[2025.10.07-02.01.44:655][875]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_BaseNPCBD67C60A487AA6BEDAD9A3853CC06195.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_BaseNPC.uasset'
+[2025.10.07-02.01.44:676][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.731 ms (total: 17.6 sec)
+[2025.10.07-02.01.44:706][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.07-02.01.44:708][875]LogPlayLevel: PlayLevel: Blueprint regeneration took 374 ms (1 blueprints)
+[2025.10.07-02.01.44:709][875]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-02.01.44:720][875]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.07-02.01.44:722][875]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.230 ms (total: 66.907 ms)
+[2025.10.07-02.01.44:722][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012899s)
+[2025.10.07-02.01.44:722][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012932s)
+[2025.10.07-02.01.44:750][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.07-02.01.44:752][875]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.07-02.01.44:754][875]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.07-02.01.44:754][875]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.07-02.01.44:754][875]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.07-02.01.44:754][875]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.07-02.01.44:756][875]LogWorldPartition: Display: WorldPartition initialize took 2.579 ms (total: 392.329 ms)
+[2025.10.07-02.01.44:756][875]LogPlayLevel: PIE: World Init took: (0.004310s)
+[2025.10.07-02.01.44:757][875]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-02.01.44:757][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-02.01.44:757][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-02.01.44:757][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-02.01.44:757][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-02.01.44:757][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-02.01.44:760][875]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-02.01.44:797][875]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-02.01.44:797][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-02.01.44:797][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-02.01.44:797][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-02.01.44:797][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.07-02.01.44:797][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.07-02.01.44:799][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.07-02.01.44:799][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.07-02.01.44:799][875]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.07-02.01.44:799][875]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lvl_ThirdPerson'.
+[2025.10.07-02.01.44:799][875]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.07-02.01.44:847][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-02.01.44:847][875]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-02.01.44:853][875]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.06-19.01.44
+[2025.10.07-02.01.44:853][875]LogWorld: Bringing up level for play took: 0.005386
+[2025.10.07-02.01.44:855][875]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.07-02.01.44:859][875]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Jump box is ready
+[2025.10.07-02.01.44:859][875]LogBlueprintUserMessages: [BP_KillBox_C_UAID_B42E99A4693EDC9302_1476504449] Hello World Im ready to kill you
+[2025.10.07-02.01.44:859][875]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Jump box is ready
+[2025.10.07-02.01.44:863][875]PIE: Server logged in
+[2025.10.07-02.01.44:864][875]PIE: Play in editor total start time 0.531 seconds.
+[2025.10.07-02.01.44:894][876]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-02.01.44:894][876]LogContentValidation: Enabled validators:
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-02.01.44:894][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-02.01.44:894][876]AssetCheck: /Game/_Lesson/Code/BP_BaseNPC Validating asset
+[2025.10.07-02.01.44:914][876]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.07-02.01.49:101][123]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.01.49:101][123]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.01.49:333][137]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.01.52:150][311]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.01.52:150][311]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.01.53:135][370]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.01.53:135][370]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.01.53:669][402]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.01.55:587][517]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.01.55:587][517]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.01.56:588][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.01.56:588][577]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.01.57:270][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.01.57:270][618]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.02.00:507][812]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.02.00:507][812]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.02.01:039][844]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.02.02:072][910]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.02.02:072][910]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.02.02:138][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.02.03:558][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-02.02.03:558][996]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-02.02.03:558][996]LogSlate: Window 'CJ_Lesson Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.07-02.02.03:564][996]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.02.03:565][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.02.03:565][996]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-02.02.03:568][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-02.02.03:573][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.02.03:605][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.07-02.02.03:605][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.10.07-02.02.03:607][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.10.07-02.02.03:615][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.07-02.02.03:689][997]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.07-02.02.10:744][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20356.154297
+[2025.10.07-02.02.10:879][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-02.02.10:879][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20356.275391, Update Interval: 339.674683
+[2025.10.07-02.02.35:443][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.07-02.02.35:509][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-02.02.35:558][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-02.02.35:704][918]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Lesson/Code/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.07-02.02.35:704][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-02.02.35:704][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-02.02.35:750][918]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-02.02.35:750][918]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacter2DB92FE44D026FE097314F92F2F6EEA9.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-02.02.35:763][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.712 ms (total: 17.9 sec)
+[2025.10.07-02.02.35:819][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-02.02.35:819][918]LogContentValidation: Enabled validators:
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-02.02.35:819][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-02.02.35:819][918]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-02.02.36:187][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-02.02.36:287][935]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Lesson/Code/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.07-02.02.36:287][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Lesson/Code/BP_ThirdPersonCharacter]
+[2025.10.07-02.02.36:287][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Lesson/Code/BP_ThirdPersonCharacter" FILE="../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2025.10.07-02.02.36:332][935]LogSavePackage: Moving output files for package: /Game/_Lesson/Code/BP_ThirdPersonCharacter
+[2025.10.07-02.02.36:332][935]LogSavePackage: Moving '../../../../../../Unreal Projects/CJ_Lesson/Saved/BP_ThirdPersonCharacterE55125944610EBE161977FB11736FA65.tmp' to '../../../../../../Unreal Projects/CJ_Lesson/Content/_Lesson/Code/BP_ThirdPersonCharacter.uasset'
+[2025.10.07-02.02.36:345][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.421 ms (total: 18.0 sec)
+[2025.10.07-02.02.36:409][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-02.02.36:409][935]LogContentValidation: Enabled validators:
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-02.02.36:409][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-02.02.36:409][935]AssetCheck: /Game/_Lesson/Code/BP_ThirdPersonCharacter Validating asset
+[2025.10.07-02.03.32:641][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-02.03.32:648][338]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.07-02.03.32:648][338]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.07-02.03.32:648][338]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 818 us (total: 29.115 ms)
+[2025.10.07-02.03.32:649][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-02.03.32:649][338]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-02.03.32:660][338]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.07-02.03.32:662][338]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.355 ms (total: 69.262 ms)
+[2025.10.07-02.03.32:663][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013328s)
+[2025.10.07-02.03.32:663][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013355s)
+[2025.10.07-02.03.32:694][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.07-02.03.32:697][338]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.07-02.03.32:699][338]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.07-02.03.32:699][338]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.07-02.03.32:699][338]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.07-02.03.32:699][338]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.07-02.03.32:701][338]LogWorldPartition: Display: WorldPartition initialize took 2.435 ms (total: 394.765 ms)
+[2025.10.07-02.03.32:701][338]LogPlayLevel: PIE: World Init took: (0.004069s)
+[2025.10.07-02.03.32:702][338]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-02.03.32:702][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-02.03.32:702][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-02.03.32:702][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-02.03.32:702][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-02.03.32:702][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-02.03.32:704][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-02.03.32:740][338]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-02.03.32:740][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-02.03.32:740][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-02.03.32:740][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-02.03.32:741][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.10.07-02.03.32:741][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.10.07-02.03.32:742][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.10.07-02.03.32:742][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.10.07-02.03.32:742][338]LogInit: FAudioDevice initialized with ID 32.
+[2025.10.07-02.03.32:742][338]LogAudio: Display: Audio Device (ID: 32) registered with world 'Lvl_ThirdPerson'.
+[2025.10.07-02.03.32:742][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.10.07-02.03.32:779][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-02.03.32:779][338]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-02.03.32:785][338]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.06-19.03.32
+[2025.10.07-02.03.32:786][338]LogWorld: Bringing up level for play took: 0.005711
+[2025.10.07-02.03.32:788][338]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.10.07-02.03.32:792][338]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Jump box is ready
+[2025.10.07-02.03.32:792][338]LogBlueprintUserMessages: [BP_KillBox_C_UAID_B42E99A4693EDC9302_1476504449] Hello World Im ready to kill you
+[2025.10.07-02.03.32:792][338]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Jump box is ready
+[2025.10.07-02.03.32:795][338]PIE: Server logged in
+[2025.10.07-02.03.32:797][338]PIE: Play in editor total start time 0.149 seconds.
+[2025.10.07-02.03.32:918][339]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.07-02.03.39:068][696]LogBlueprintUserMessages: [BP_MoneyBox_C_UAID_B42E99A4693EDF9302_1557660980] Overlap: BP_ThirdPersonCharacter0
+[2025.10.07-02.03.39:069][696]LogBlueprintUserMessages: [BP_MoneyBox_C_UAID_B42E99A4693EDF9302_1557660980] Money: $ 1
+[2025.10.07-02.03.40:799][803]LogBlueprintUserMessages: [BP_MoneyBox_C_UAID_B42E99A4693EDF9302_1557660980] Overlap: BP_ThirdPersonCharacter0
+[2025.10.07-02.03.40:799][803]LogBlueprintUserMessages: [BP_MoneyBox_C_UAID_B42E99A4693EDF9302_1557660980] Money: $ 2
+[2025.10.07-02.03.41:640][853]LogBlueprintUserMessages: [BP_SpeedBox_C_UAID_B42E99A4693EDE9302_1890210803] Overlap: BP_ThirdPersonCharacter0
+[2025.10.07-02.03.43:456][962]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Overlap: BP_ThirdPersonCharacter0
+[2025.10.07-02.03.49:078][304]LogBlueprintUserMessages: [BP_JumpBox_C_UAID_B42E99A4693EDD9302_2105336626] Overlap: BP_ThirdPersonCharacter0
+[2025.10.07-02.03.51:497][454]LogBlueprintUserMessages: [BP_FoodBox_C_UAID_B42E99A4693E459402_1369662928] +1 Food
+[2025.10.07-02.03.51:497][454]LogBlueprintUserMessages: [BP_FoodBox_C_UAID_B42E99A4693E459402_1369662928] Hunger: 101
+[2025.10.07-02.03.52:404][509]LogBlueprintUserMessages: [BP_FoodBox_C_UAID_B42E99A4693E459402_1369662928] +1 Food
+[2025.10.07-02.03.52:405][509]LogBlueprintUserMessages: [BP_FoodBox_C_UAID_B42E99A4693E459402_1369662928] Hunger: 102
+[2025.10.07-02.03.53:530][577]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] -1 Food
+[2025.10.07-02.03.53:530][577]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] Hunger: 101
+[2025.10.07-02.03.54:498][636]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] -1 Food
+[2025.10.07-02.03.54:499][636]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] Hunger: 100
+[2025.10.07-02.03.55:339][689]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] -1 Food
+[2025.10.07-02.03.55:339][689]LogBlueprintUserMessages: [BP_HungerBox_C_UAID_B42E99A4693E459402_2138400929] Hunger: 99
+[2025.10.07-02.03.57:506][822]LogBlueprintUserMessages: [BP_ManaBox_C_UAID_B42E99A4693E469402_1406998106] +1 Mana
+[2025.10.07-02.03.57:507][822]LogBlueprintUserMessages: [BP_ManaBox_C_UAID_B42E99A4693E469402_1406998106] Mana: 1
+[2025.10.07-02.03.58:523][883]LogBlueprintUserMessages: [BP_ManaBox_C_UAID_B42E99A4693E469402_1406998106] +1 Mana
+[2025.10.07-02.03.58:523][883]LogBlueprintUserMessages: [BP_ManaBox_C_UAID_B42E99A4693E469402_1406998106] Mana: 2
+[2025.10.07-02.03.59:006][912]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] -1 Mana
+[2025.10.07-02.03.59:006][912]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] Mana: 1
+[2025.10.07-02.04.00:352][992]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] -1 Mana
+[2025.10.07-02.04.00:352][992]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] Mana: 0
+[2025.10.07-02.04.01:960][ 93]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] -1 Mana
+[2025.10.07-02.04.01:960][ 93]LogBlueprintUserMessages: [BP_ManaDrainBox_C_UAID_B42E99A4693E469402_1420979107] Mana: -1
+[2025.10.07-02.04.05:026][278]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $3
+[2025.10.07-02.04.05:662][316]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $4
+[2025.10.07-02.04.06:259][352]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $5
+[2025.10.07-02.04.07:345][417]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $6
+[2025.10.07-02.04.08:633][500]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $7
+[2025.10.07-02.04.09:327][542]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $8
+[2025.10.07-02.04.09:764][569]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $9
+[2025.10.07-02.04.10:062][588]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $10
+[2025.10.07-02.04.11:445][671]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] $11
+[2025.10.07-02.04.15:199][896]LogBlueprintUserMessages: [BP_Apple_C_UAID_B42E99A4693EDB9402_1602017327] +1 Food
+[2025.10.07-02.04.15:199][896]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Food: 104
+[2025.10.07-02.04.16:198][956]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -5
+[2025.10.07-02.04.16:198][956]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] HP: 95
+[2025.10.07-02.04.17:032][  6]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] +5
+[2025.10.07-02.04.17:032][  6]LogBlueprintUserMessages: [BP_HealthPotion_C_UAID_B42E99A4693EDF9402_2057855046] HP: 100
+[2025.10.07-02.04.18:099][ 73]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] +5
+[2025.10.07-02.04.18:099][ 73]LogBlueprintUserMessages: [BP_ManaPotion_C_UAID_B42E99A4693EE09402_1095493223] Mana: 4
+[2025.10.07-02.04.21:049][251]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.21:051][251]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.22:570][342]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.22:570][342]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.23:602][404]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.23:602][404]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.24:601][464]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.24:601][464]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.25:637][526]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.25:637][526]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.28:075][672]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.28:075][672]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.29:111][734]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.29:111][734]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.30:144][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.34:706][ 77]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.34:706][ 77]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.35:715][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.35:715][138]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.36:106][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.36:106][163]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.36:892][210]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.36:892][210]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.37:623][254]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.37:623][254]LogScript: Warning: Script Msg: The widget 'WBP_InteractionPrompt_C_0' was already added to the screen.
+[2025.10.07-02.04.37:623][254]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2025.10.07-02.04.37:623][254]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.37:623][254]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.37:774][263]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.37:774][263]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.04.38:307][295]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.38:307][295]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.38:491][306]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.39:751][385]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.39:751][385]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.04.44:978][700]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.44:978][700]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.46:278][778]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.49:829][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.49:829][991]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.50:180][ 12]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.50:180][ 12]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.51:113][ 68]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.52:797][169]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.52:797][169]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.04.52:998][181]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.52:998][181]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.54:002][242]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.54:682][286]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.54:682][286]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.04.54:964][303]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.04.54:965][303]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.04.55:233][319]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.04.59:084][551]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.04.59:084][551]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.05.01:552][699]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.05.05:357][927]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.05.05:357][927]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.05.07:923][ 81]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.05.07:923][ 81]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.05.08:207][ 98]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.05.08:207][ 98]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.05.11:527][297]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.05.11:527][297]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.05.11:593][301]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.05.11:594][301]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] HO HO! You're approaching me?!?!
+[2025.10.07-02.05.13:940][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.05.13:940][446]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693ED59502_2084360327] oh... you're leaving....
+[2025.10.07-02.05.14:240][464]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.05.14:240][464]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.05.15:157][521]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] E
+[2025.10.07-02.05.16:157][582]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Unregistering Interactable
+[2025.10.07-02.05.16:157][582]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] oh... you're leaving....
+[2025.10.07-02.05.16:681][613]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Interaction Text: Press E to Interact
+[2025.10.07-02.05.16:681][613]LogBlueprintUserMessages: [BP_BaseNPC_C_UAID_B42E99A4693EDC9502_1930981560] HO HO! You're approaching me?!?!
+[2025.10.07-02.05.17:973][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-02.05.17:973][688]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.07-02.05.17:973][688]LogSlate: Window 'CJ_Lesson Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.07-02.05.17:982][688]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.05.17:984][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.05.17:984][688]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-02.05.17:986][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-02.05.17:992][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.05.18:023][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.07-02.05.18:023][688]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.10.07-02.05.18:023][688]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2025.10.07-02.05.18:025][688]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2025.10.07-02.05.18:032][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-02.05.18:105][689]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.10.07-02.06.04:686][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.07-02.06.04:728][497]LogStall: Shutdown...
+[2025.10.07-02.06.04:728][497]LogStall: Shutdown complete.
+[2025.10.07-02.06.04:766][497]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.04:766][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.04:886][497]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.07-02.06.04:886][497]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.04:886][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.04:997][497]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.04:997][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:055][497]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:055][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:060][497]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:061][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:101][497]LogSlate: Window 'CJ_Lesson - Unreal Editor' being destroyed
+[2025.10.07-02.06.05:103][497]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.07-02.06.05:484][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.07-02.06.05:511][498]Cmd: QUIT_EDITOR
+[2025.10.07-02.06.05:511][498]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.07-02.06.05:516][498]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.07-02.06.05:517][498]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.07-02.06.05:517][498]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.07-02.06.05:518][498]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:518][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:518][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.07-02.06.05:524][498]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.07-02.06.05:525][498]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.07-02.06.05:525][498]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.07-02.06.05:539][498]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:539][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:542][498]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:542][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:545][498]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:545][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:549][498]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:549][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:553][498]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:553][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:556][498]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:556][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:559][498]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:559][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:562][498]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:562][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:566][498]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:566][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:569][498]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:569][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:572][498]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:572][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:575][498]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:575][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:578][498]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-02.06.05:578][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-02.06.05:582][498]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.07-02.06.05:582][498]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.07-02.06.05:591][498]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.07-02.06.06:132][498]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.07-02.06.06:132][498]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.07-02.06.06:132][498]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.10.07-02.06.06:132][498]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.07-02.06.06:132][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.07-02.06.06:134][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.07-02.06.06:140][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.07-02.06.06:140][498]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.07-02.06.06:142][498]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.07-02.06.06:143][498]LogExit: Preparing to exit.
+[2025.10.07-02.06.06:177][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:185][498]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.07-02.06.06:631][498]LogEditorDataStorage: Deinitializing
+[2025.10.07-02.06.06:725][498]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.07-02.06.06:740][498]LogExit: Editor shut down
+[2025.10.07-02.06.06:741][498]LogExit: Transaction tracking system shut down
+[2025.10.07-02.06.06:868][498]LogExit: Object subsystem successfully closed.
+[2025.10.07-02.06.06:881][498]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.07-02.06.06:949][498]LogMemoryProfiler: Shutdown
+[2025.10.07-02.06.06:949][498]LogNetworkingProfiler: Shutdown
+[2025.10.07-02.06.06:949][498]LoadingProfiler: Shutdown
+[2025.10.07-02.06.06:949][498]LogTimingProfiler: Shutdown
+[2025.10.07-02.06.06:949][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.07-02.06.06:949][498]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.07-02.06.07:354][498]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.07-02.06.07:362][498]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.07-02.06.07:362][498]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E38CDE9-4A92-5D2F-87F4-3F9637DC88DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1cdc1a4c490e4b40d780bd89379cb6e4%7C18f5e98017514472a3d4aacc727c18e9%7C2e9dcc62-c643-488c-9315-24198ae24170&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.07-02.06.07:895][498]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.07-02.06.07:899][498]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.07-02.06.07:899][498]RenderDocPlugin: plugin has been unloaded.
+[2025.10.07-02.06.07:899][498]LogXGEController: Cleaning working directory: C:/Users/charl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.07-02.06.07:901][498]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.07-02.06.07:901][498]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.07-02.06.07:901][498]LogPakFile: Destroying PakPlatformFile
+[2025.10.07-02.06.08:297][498]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.07-02.06.08:326][498]LogExit: Exiting.
+[2025.10.07-02.06.08:349][498]Log file closed, 10/06/25 19:06:08
